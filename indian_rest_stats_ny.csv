@@ -1,0 +1,138 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Woodlawn,4c0448d9310fc9b6bf1dc761,Curry Spot,5,8.0,10
+Bronx,Parkchester,4c194631838020a13e78e561,Melanies Roti Bar And Grill,3,6.3,2
+Bronx,Spuyten Duyvil,4c04544df423a593ac83d116,Cumin Indian Cuisine,13,5.9,9
+Bronx,Concourse,551b7f75498e86c00a0ed2e1,Hungry Bird,8,6.7,3
+Bronx,Unionport,4c194631838020a13e78e561,Melanies Roti Bar And Grill,3,6.3,2
+Brooklyn,Bay Ridge,4b5a4dc8f964a520a2bb28e3,Taj Mahal,38,8.3,26
+Brooklyn,Brighton Beach,4af0d31bf964a5207ddf21e3,Pak Nasheman,9,7.5,4
+Brooklyn,Flatbush,52213c4211d295d4c57a607c,Ashoka Grill,8,7.2,14
+Brooklyn,Flatbush,564d283d498e6e851df79d87,Great Indian Curry,3,6.4,2
+Brooklyn,East Flatbush,512a9ea9e4b004fb8eeb84e5,Silver Krust,12,8.1,3
+Brooklyn,Kensington,4db0f4371e729fcc56497f20,Mashallah,20,7.6,7
+Brooklyn,Kensington,4b718914f964a520c04b2de3,Madina Restaurant and Sweets,17,6.9,12
+Brooklyn,Prospect Heights,592e1dae345cbe0fc77cf6c9,Diwan Grill,16,8.8,5
+Brooklyn,Fort Greene,57596dad498e732300496b23,Dosa Royale,75,8.7,22
+Brooklyn,Clinton Hill,57596dad498e732300496b23,Dosa Royale,75,8.7,22
+Brooklyn,Prospect Lefferts Gardens,4bb93b70cf2fc9b6fe64a002,Gandhi Fine Indian Cuisine,81,8.6,47
+Brooklyn,Prospect Lefferts Gardens,4afdf78bf964a520862c22e3,King of Tandoor,25,7.2,23
+Brooklyn,Ocean Hill,5539753f498edbace4746b67,Tandoori Masala,12,8.0,2
+Brooklyn,Ocean Hill,4f6cae2ee4b0d4a5afcef5c0,Delhi Heights,22,8.1,8
+Brooklyn,City Line,0,0,0,0.0,0
+Brooklyn,Prospect Park South,519ff6c8498e1300ddcbd45c,Anarkali Indian Cuisine,14,7.5,8
+Brooklyn,Prospect Park South,4db0f4371e729fcc56497f20,Mashallah,20,7.6,7
+Brooklyn,South Side,5631511b498e3d6d7e0a4df0,Tikka Indian Grill,95,8.5,29
+Brooklyn,Fort Hamilton,545835a1498e820edc6f636f,Bombay Grill,14,6.9,4
+Manhattan,Washington Heights,4ae7876ef964a5201eac21e3,Kismat Indian Restaurant,45,7.7,25
+Manhattan,Hamilton Heights,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,32,7.7,17
+Manhattan,Hamilton Heights,5914ff32b23dfa207eca38de,Mumbai Masala,14,7.3,7
+Manhattan,Manhattanville,529d382a11d2dd5ef107e641,Chapati House - NYC,73,7.8,18
+Manhattan,Manhattanville,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,32,7.7,17
+Manhattan,Central Harlem,56d87f3d498ee215abee5724,Delhi Masala,13,8.5,3
+Manhattan,Central Harlem,54c2bd96498eaf5142e3fe92,Clove Indian Restaurant & Bar,32,7.7,17
+Manhattan,East Harlem,519fe6f5498e30595d370c44,Bawarchi,9,7.4,4
+Manhattan,Yorkville,5272ca4511d22488f6895caf,Drunken Munkey,208,8.5,61
+Manhattan,Yorkville,56ed855a498ef3bb022352c3,Mughlai Indian Cuisine,27,7.9,9
+Manhattan,Roosevelt Island,4fe4fb50c2eee335e4fea69d,Moti Mahal Delux,186,8.4,83
+Manhattan,Murray Hill,59fcd48c464d6567ed2f5e37,The Kati Roll Company,20,8.8,4
+Manhattan,East Village,510431dde4b0f2b954d00297,Malai Marke,297,8.6,77
+Manhattan,Tribeca,4bbb9dbded7776b0e1ad3e51,Tamarind TriBeCa,590,9.1,148
+Manhattan,West Village,591794df2be42556988e4a8e,Rahi,115,8.7,24
+Manhattan,Manhattan Valley,49c5ad0af964a5201b571fe3,Roti Roll,114,8.0,58
+Manhattan,Manhattan Valley,424de080f964a520ae201fe3,Manhattan Valley,42,7.7,30
+Manhattan,Manhattan Valley,538ba1f2498e279098e4210a,Awadh,51,7.8,13
+Manhattan,Morningside Heights,49c5ad0af964a5201b571fe3,Roti Roll,114,8.0,58
+Manhattan,Gramercy,4a70a75bf964a52016d81fe3,Bhatti Indian Grill,423,8.7,161
+Manhattan,Gramercy,57f7cbbe498edf8f07c7ba83,Sahib,60,8.7,13
+Manhattan,Gramercy,4a12eb1ff964a52099771fe3,Dhaba,497,8.4,164
+Manhattan,Gramercy,4fcf82f54fc6ada5874da997,Chote Nawab,215,8.1,70
+Queens,Astoria,4aa56c81f964a5204e4820e3,Seva Indian Cuisine,239,9.1,133
+Queens,Astoria,562035d9498e2abb4137c2c7,Yaar Indian Restaurant,31,8.6,7
+Queens,Woodside,4afdcf29f964a520162b22e3,Rajbhog Sweets,37,8.4,25
+Queens,Woodside,0,0,0,0.0,0
+Queens,Woodside,0,0,0,0.0,0
+Queens,Woodside,0,0,0,0.0,0
+Queens,Woodside,0,0,0,0.0,0
+Queens,Woodside,0,0,0,0.0,0
+Queens,Woodside,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Jackson Heights,0,0,0,0.0,0
+Queens,Elmhurst,0,0,0,0.0,0
+Queens,Elmhurst,0,0,0,0.0,0
+Queens,Elmhurst,0,0,0,0.0,0
+Queens,Elmhurst,0,0,0,0.0,0
+Queens,Kew Gardens,0,0,0,0.0,0
+Queens,Kew Gardens,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Richmond Hill,0,0,0,0.0,0
+Queens,Long Island City,0,0,0,0.0,0
+Queens,Long Island City,0,0,0,0.0,0
+Queens,Sunnyside,0,0,0,0.0,0
+Queens,Ridgewood,0,0,0,0.0,0
+Queens,Rego Park,0,0,0,0.0,0
+Queens,South Ozone Park,0,0,0,0.0,0
+Queens,Bayside,0,0,0,0.0,0
+Queens,Bayside,0,0,0,0.0,0
+Queens,Bayside,0,0,0,0.0,0
+Queens,Glen Oaks,0,0,0,0.0,0
+Queens,Glen Oaks,0,0,0,0.0,0
+Queens,Glen Oaks,0,0,0,0.0,0
+Queens,Glen Oaks,0,0,0,0.0,0
+Queens,Briarwood,0,0,0,0.0,0
+Queens,Briarwood,0,0,0,0.0,0
+Queens,Briarwood,0,0,0,0.0,0
+Queens,Jamaica Center,0,0,0,0.0,0
+Queens,Jamaica Center,0,0,0,0.0,0
+Queens,Jamaica Center,0,0,0,0.0,0
+Queens,Steinway,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Floral Park,0,0,0,0.0,0
+Queens,Holliswood,0,0,0,0.0,0
+Queens,Jamaica Estates,0,0,0,0.0,0
+Queens,Jamaica Estates,0,0,0,0.0,0
+Queens,Jamaica Estates,0,0,0,0.0,0
+Queens,Queensboro Hill,0,0,0,0.0,0
+Queens,Ravenswood,0,0,0,0.0,0
+Queens,Bellaire,0,0,0,0.0,0
+Staten Island,New Brighton,0,0,0,0.0,0
+Staten Island,New Dorp,0,0,0,0.0,0
+Staten Island,Tompkinsville,0,0,0,0.0,0
+Brooklyn,Ditmas Park,0,0,0,0.0,0
+Brooklyn,Ditmas Park,0,0,0,0.0,0
+Brooklyn,Ditmas Park,0,0,0,0.0,0
+Staten Island,Grant City,0,0,0,0.0,0
+Manhattan,Carnegie Hill,0,0,0,0.0,0
+Manhattan,Noho,0,0,0,0.0,0
+Manhattan,Civic Center,0,0,0,0.0,0
+Queens,Jamaica Hills,0,0,0,0.0,0
+Queens,Jamaica Hills,0,0,0,0.0,0
+Queens,Jamaica Hills,0,0,0,0.0,0
+Queens,Jamaica Hills,0,0,0,0.0,0
+Bronx,Concourse Village,0,0,0,0.0,0
+Manhattan,Sutton Place,0,0,0,0.0,0
+Manhattan,Sutton Place,0,0,0,0.0,0
+Manhattan,Turtle Bay,0,0,0,0.0,0
+Manhattan,Tudor City,0,0,0,0.0,0
+Queens,Sunnyside Gardens,0,0,0,0.0,0
+Queens,Blissville,0,0,0,0.0,0
+Brooklyn,Broadway Junction,0,0,0,0.0,0
+Brooklyn,Erasmus,0,0,0,0.0,0
+Queens,Queensbridge,0,0,0,0.0,0
+Queens,Queensbridge,0,0,0,0.0,0
